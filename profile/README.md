@@ -3,7 +3,7 @@
 * Website https://remotivelabs.com
 * Cloud demo (no registration needed!) https://demo.remotivelabs.com/
 * User Guide (free 30-day evaluation license!) https://remotivelabs.github.io
-* Discussions https://github.com/remotivelabs/remotivelabs-community/discussions
+* Community (Issues, discussions, etc) https://github.com/remotivelabs/remotivelabs-community
 
 ### RemotiveBroker APIs
 
