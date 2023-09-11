@@ -4,7 +4,7 @@
 * Cloud Demo (no registration needed!) https://demo.remotivelabs.com/
 * Getting Started User Guide (free 30-day evaluation license!) https://docs.remotivelabs.com/docs/broker/introduction
 * Remotive Platform Documentation https://docs.remotivelabs.com
-* For platform updates, follow our community page: https://github.com/remotivelabs/remotivelabs-community
+* For platform updates, follow us on [Remotive Community](https://github.com/remotivelabs/remotivelabs-community/discussions/categories/product-updates).
 * For technical support, tooling questions or sales
   - Contact us on https://remotivelabs.com/contact/
   - Or send us an email to support@remotivelabs.com
