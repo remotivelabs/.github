@@ -1,11 +1,11 @@
 ## Welcome to RemotiveLabs!
 
-* Website [https://remotivelabs.com](https://remotivelabs.com?utm_campaign=remotivelabs/.github&utm_source=github&utm_medium=docs&utm_content=website_link)
-* Cloud Demo (no registration needed!) [https://demo.remotivelabs.com/](https://demo.remotivelabs.com/?utm_campaign=remotivelabs/.github&utm_source=github&utm_medium=docs&utm_content=demo_link)
-* Getting Started with Remotive Broker (free 30-day evaluation license!) [https://docs.remotivelabs.com/docs/remotive-broker/](https://docs.remotivelabs.com/docs/remotive-broker/?utm_campaign=remotivelabs/.github&utm_source=github&utm_medium=docs&utm_content=getting_started_broker_docs_link)
-* Remotive Platform Documentation [https://docs.remotivelabs.com](https://docs.remotivelabs.com?utm_campaign=remotivelabs/.github&utm_source=github&utm_medium=docs&utm_content=docs_link)
+* Visit our website at [remotivelabs.com](https://remotivelabs.com?utm_campaign=remotivelabs/.github&utm_source=github&utm_medium=docs&utm_content=website_link)
+* Try RemotiveCloud by signing up to a free account at [cloud.remotivelabs.com](https://cloud.remotivelabs.com/)
+* Get started with RemotiveBroker - [Request a free 30-day evaluation license!](https://docs.remotivelabs.com/docs/remotive-broker/?utm_campaign=remotivelabs/.github&utm_source=github&utm_medium=docs&utm_content=getting_started_broker_docs_link)
+* [RemotiveLabs Documentation Platform](https://docs.remotivelabs.com?utm_campaign=remotivelabs/.github&utm_source=github&utm_medium=docs&utm_content=docs_link)
 * For platform updates, follow us on [Remotive Community](https://github.com/remotivelabs/remotivelabs-community/discussions/categories/product-updates)
-* For technical support, tooling questions or sales contact us on [https://remotivelabs.com/contact/](https://remotivelabs.com/contact/?utm_campaign=remotivelabs/.github&utm_source=github&utm_medium=docs&utm_content=contact_us_link)
+* [Contact us](https://remotivelabs.com/contact/?utm_campaign=remotivelabs/.github&utm_source=github&utm_medium=docs&utm_content=contact_us_link) for technical support, tooling questions or sales 
 
 ### RemotiveBroker APIs
 
