@@ -6,5 +6,5 @@
 
 ### Get started
 
-* Stream and analyze recordings in RemotiveCloud [by signing up to a free account]((https://cloud.remotivelabs.com/)
+* Stream and analyze recordings in RemotiveCloud [by signing up to a free account](https://cloud.remotivelabs.com/)
 * Learn about vehicle virtualization with [Topology Examples](https://github.com/remotivelabs/remotivelabs-topology-examples/)
